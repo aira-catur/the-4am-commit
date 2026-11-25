@@ -1,5 +1,7 @@
 # The 4AM Commit: Funniest Agent Bug-Fix Message
 
+Entry note: the line stages a recursive 3 AM bug-fix spiral — each fix spawns the next bug, until the original bug gets promoted to architecture.
+
 A deterministic Python program that writes one funny 4AM agent bug-fix commit message to `entry.txt`. Entry for [The 4AM Commit: Funniest Agent Bug-Fix Message](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d) on make.fun.
 
 ## Run
